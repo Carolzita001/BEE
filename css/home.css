@@ -12,7 +12,7 @@ body{
   justify-content:left;
 }
 
-a:link{
+a{
  color: white;
   background-color: transparent;
   text-decoration: none;
@@ -21,10 +21,10 @@ a:link{
   padding:10px;
 }
 
-a:visited {
+a:active {
   color: rgb(241, 241, 241);
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration:underline;
 }
 
 #star{
