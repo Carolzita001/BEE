@@ -29,6 +29,7 @@ a:active {
 
 #star{
   padding-top: 12px;
+  cursor: pointer;
 }
 
 input{
@@ -129,6 +130,7 @@ input::placeholder{
   border: 3px solid transparent;
   border-radius: 10px;
   float: right;
+  cursor: pointer;
 }
 
 .linkper{
@@ -145,6 +147,7 @@ input::placeholder{
   border-radius: 10px;
   border: 3px solid #FFFAFA;
   background-color:#C4C4C4;
+  cursor: pointer; /* mudar para mãozinha*/
 }
 
 .lupaicon{
